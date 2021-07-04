@@ -31,6 +31,11 @@ h2 {
 
 }
 
+.img-size {
+    width: 450px;
+    height: 450px;
+}
+
 .link-button {
     text-decoration: none;
     background-image: linear-gradient(coral, orange);
